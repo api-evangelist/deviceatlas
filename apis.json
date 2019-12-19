@@ -1,0 +1,62 @@
+{
+    "name": "DeviceAtlas",
+    "description": "DeviceAtlas is the industry standard for device data available in real-time for all connected environments including Web, Mobile Operators and Mobile Apps.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1046-deviceatlas.jpg",
+    "tags": [
+        "api provider",
+        "devices",
+        "display",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deviceatlas\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DeviceAtlas",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1046-deviceatlas.jpg",
+            "humanURL": "https:\/\/deviceatlas.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deviceatlas-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deviceatlas-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/deviceatlas.com\/blog.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/deviceatlas"
+        },
+        {
+            "type": "Email",
+            "url": "support@deviceatlas.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@deviceatlas.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Device_Atlas"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/deviceatlas.com\/"
+        }
+    ]
+}
